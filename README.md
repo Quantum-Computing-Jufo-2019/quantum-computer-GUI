@@ -9,4 +9,5 @@ You can also provide your own problem the quantum computer should solve.
 1. Install python 3
 2. Install the dwave oceans toolkit
 3. Install PyQt4 and numpy
-4. Run jufo-gui.py with python 3
+4. Clone this repository
+5. Run jufo-gui.py with python 3
