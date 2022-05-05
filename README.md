@@ -2,8 +2,8 @@
 
 *This was created as a demo for our Jugend Forscht Project*
 
-With this GUI you can submit a variety of chess Probelms to a real quantum computer (via dwave leap) or simulate the quantum computer on your own hardware.
-You can also provide your own problem the quantum computer should solve.
+With this GUI you can submit a variety of chess problems to a real quantum computer (via dwave leap) or simulate the quantum computer on your own hardware.
+You can also provide your own optimization problem for the quantum computer to solve.
 
 # Installation
 1. Install python 3
