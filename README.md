@@ -1,5 +1,7 @@
 # Quantum Computer GUI
 
+## THIS IS A READ-ONLY CODEBERG.ORG MIRROR. To contribute visit [the repository on Codeberg](https://codeberg.org/Quantum-Computing-Jufo-2019/quantum-computer-GUI).
+
 *This was created as a demo for our Jugend Forscht Project*
 
 With this GUI you can submit a variety of chess problems to a real quantum computer (via dwave leap) or simulate the quantum computer on your own hardware.
